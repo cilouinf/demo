@@ -1,2 +1,3 @@
 A test
 And another one
+Should check the commit logs...
